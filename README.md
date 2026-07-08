@@ -6,8 +6,6 @@ Sou estudante de tecnologia e utilizo este espaço para compartilhar projetos de
 </p>
 
 ---
-
----
 ### 🤖 Linguagens e Tecnologias
 
 <img 

@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Edinei Silva de Campos Filho
 
-**`Análise de Dados | Inteligência Artificial | Desenvolvimento de Software.`**
+**`Análise de Dados | Inteligência Artificial | Desenvolvimento de Software`**
 <p align="justify">
 Sou formado em Administração pela UFSCar, graduando em Engenharia de Software e estudante do MBA em Data Science, Inteligência Artificial e Analytics da USP/ESALQ.
 

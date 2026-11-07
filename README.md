@@ -2,7 +2,9 @@
 
 **`Análise de Dados | Inteligência Artificial | Desenvolvimento de Software.`**
 <p align="justify">
-Sou estudante de tecnologia e utilizo este espaço para compartilhar projetos de Desenvolvimento Full Stack, Análise de Dados e Inteligência Artificial. Estou sempre em busca de novos desafios, aprendizado contínuo e boas práticas de desenvolvimento.
+Sou formado em Administração pela UFSCar, graduando em Engenharia de Software e estudante do MBA em Data Science, Inteligência Artificial e Analytics da USP/ESALQ.
+
+Aqui compartilho projetos e aprendizados em análise de dados, inteligência artificial e desenvolvimento de software, com interesse em automação e soluções que apoiem decisões de negócio.
 </p>
 
 ---

@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Edinei Silva de Campos Filho
 
-**`Desenvolvimento Full Stack | Análise de Dados | Inteligência Artificial`**
+**`Análise de Dados | Inteligência Artificial | Desenvolvimento de Software.`**
 <p align="justify">
 Sou estudante de tecnologia e utilizo este espaço para compartilhar projetos de Desenvolvimento Full Stack, Análise de Dados e Inteligência Artificial. Estou sempre em busca de novos desafios, aprendizado contínuo e boas práticas de desenvolvimento.
 </p>
